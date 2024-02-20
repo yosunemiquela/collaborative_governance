@@ -1,2 +1,3 @@
-# collaborative_governance
-Hibrid dynamic model that incorporates governance effects on forest production sustainability
+# Collaborative Governance Modelling for Sustainability
+## Hibrid dynamic model that incorporates governance effects on forest production sustainability
+![image](https://github.com/yosunemiquela/collaborative_governance/assets/25304777/802d9cdc-e4dc-4317-9997-2cd0bc2407c2)
